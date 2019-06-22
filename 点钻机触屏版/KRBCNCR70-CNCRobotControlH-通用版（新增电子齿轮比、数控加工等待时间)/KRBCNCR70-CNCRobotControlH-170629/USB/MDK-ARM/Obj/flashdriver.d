@@ -1,0 +1,15 @@
+.\Obj\flashdriver.o: ..\USER\SPI\FlashDriver.c
+.\Obj\flashdriver.o: ..\USER\SPI\SST25VF016B.h
+.\Obj\flashdriver.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\flashdriver.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\flashdriver.o: D:\keil\install\ARM\RV31\INC\stdint.h
+.\Obj\flashdriver.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\Obj\flashdriver.o: ..\USER\stm32f10x_conf.h
+.\Obj\flashdriver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\Obj\flashdriver.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\flashdriver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\flashdriver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\flashdriver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\Obj\flashdriver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\Obj\flashdriver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\Obj\flashdriver.o: ..\USER\SPI\FlashDriver.h

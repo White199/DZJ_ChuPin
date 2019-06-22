@@ -1,0 +1,14 @@
+.\Obj\systick.o: ..\USER\IIC\systick.c
+.\Obj\systick.o: ..\USER\IIC\systick.h
+.\Obj\systick.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\systick.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\systick.o: D:\MDK\ARM\RV31\INC\stdint.h
+.\Obj\systick.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\Obj\systick.o: ..\USER\stm32f10x_conf.h
+.\Obj\systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\Obj\systick.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\Obj\systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\Obj\systick.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

@@ -1,0 +1,88 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\yanjiushengqian\CNC机械手\机械手工程进度记录\2017.7.31--加总线功能\进程\KRBCNCR70-CNCRobotControlM-1708018--21（3）\KRBCNCR70-CNCRobotControlM-1708018--21\JHRobotControl_105.uvproj
+Project File Date:  08/21/2017
+
+<h2>Output:</h2>
+Build target 'JHRobotControl'
+linking...
+Program Size: Code=72202 RO-data=358 RW-data=1304 ZI-data=19752  
+FromELF: creating hex file...
+".\Obj\JHRobotControl_105.axf" - 0 Error(s), 0 Warning(s).
+Load "D:\\yanjiushengqian\\CNC机械手\\机械手工程进度记录\\2017.7.31--加总线功能\\进程\\KRBCNCR70-CNCRobotControlM-1708018--21（3）\\KRBCNCR70-CNCRobotControlM-1708018--21\\Obj\\JHRobotControl_105.AXF" 
+Set JLink Project File to "D:\yanjiushengqian\CNC机械手\机械手工程进度记录\2017.7.31--加总线功能\进程\KRBCNCR70-CNCRobotControlM-1708018--21（3）\KRBCNCR70-CNCRobotControlM-1708018--21\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.90 , compiled Jul 28 2014 10:35:20
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.267V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'JHRobotControl'
+compiling SignalWatch.c...
+linking...
+Program Size: Code=72294 RO-data=358 RW-data=1304 ZI-data=19752  
+FromELF: creating hex file...
+".\Obj\JHRobotControl_105.axf" - 0 Error(s), 0 Warning(s).
+Load "D:\\yanjiushengqian\\CNC机械手\\机械手工程进度记录\\2017.7.31--加总线功能\\进程\\KRBCNCR70-CNCRobotControlM-1708018--21（3）\\KRBCNCR70-CNCRobotControlM-1708018--21\\Obj\\JHRobotControl_105.AXF" 
+Set JLink Project File to "D:\yanjiushengqian\CNC机械手\机械手工程进度记录\2017.7.31--加总线功能\进程\KRBCNCR70-CNCRobotControlM-1708018--21（3）\KRBCNCR70-CNCRobotControlM-1708018--21\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.90 , compiled Jul 28 2014 10:35:20
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.267V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
